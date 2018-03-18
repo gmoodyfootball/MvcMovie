@@ -1,6 +1,15 @@
 ﻿body {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-color: oldlace;
+}
+
+.navbar{
+    background-color: brown;
+}
+
+h2{
+    color: saddlebrown;
 }
 
 /* Wrapping element */
@@ -8,6 +17,7 @@
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    color: black;
 }
 
 /* Carousel */
